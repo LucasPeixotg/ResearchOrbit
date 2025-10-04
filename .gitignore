@@ -1,4 +1,9 @@
 data/*.pdf
 virtualenv
+venv
 faiss_index
 **/*.DS_Store
+__pycache__
+*.pyc
+*.pyo
+*.pyd

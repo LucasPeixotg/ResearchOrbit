@@ -3,7 +3,7 @@ from pydantic_settings import BaseSettings
 from typing import List, Tuple
 
 class Settings(BaseSettings):
-    documents_directory: str = "./data"
+    documents_directory: str = "./orbitsAPI/data"
 
     chunk_size: int = 1200
     chunk_overlap: int = 200

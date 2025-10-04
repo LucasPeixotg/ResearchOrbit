@@ -9,8 +9,6 @@ pid=$!
 sleep 5
 
 echo "🔴 Retrieving model..."
-echo "PULLING deepseek-r1:1.5b..."
-ollama pull deepseek-r1:1.5b
 echo "PULLING gemma2:2b..."
 ollama pull gemma2:2b
 echo "PULLING qwen2.5:0.5b..."

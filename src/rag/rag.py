@@ -5,7 +5,7 @@ from langchain.retrievers import EnsembleRetriever
 from langchain_community.vectorstores import FAISS
 from sentence_transformers import CrossEncoder
 from langchain.schema import Document
-from rag.settings import settings
+from orbitsAPI.src.rag.settings import settings
 import asyncio
 import ollama
 import fitz  # PyMuPDF
