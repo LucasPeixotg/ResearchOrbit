@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Git
+.git/
+.gitignore
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
+
+# IDEs
+.idea/
+.vscode/

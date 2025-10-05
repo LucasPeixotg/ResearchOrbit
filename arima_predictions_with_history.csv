@@ -1,0 +1,691 @@
+Concept,Metric,Year,ActualValue,PredictedValue,CI_Lower,CI_Upper,DataType
+biology,Citations (Crossref),2005,1714.0,,,,Historical
+biology,Citations (Crossref),2006,0.0,,,,Historical
+biology,Citations (Crossref),2007,0.0,,,,Historical
+biology,Citations (Crossref),2008,0.0,,,,Historical
+biology,Citations (Crossref),2009,0.0,,,,Historical
+biology,Citations (Crossref),2010,220.0,,,,Historical
+biology,Citations (Crossref),2011,425.0,,,,Historical
+biology,Citations (Crossref),2012,811.0,,,,Historical
+biology,Citations (Crossref),2013,1001.0,,,,Historical
+biology,Citations (Crossref),2014,407.0,,,,Historical
+biology,Citations (Crossref),2015,485.0,,,,Historical
+biology,Citations (Crossref),2016,230.0,,,,Historical
+biology,Citations (Crossref),2017,577.0,,,,Historical
+biology,Citations (Crossref),2018,938.0,,,,Historical
+biology,Citations (Crossref),2019,965.0,,,,Historical
+biology,Citations (Crossref),2020,1242.0,,,,Historical
+biology,Citations (Crossref),2021,607.0,,,,Historical
+biology,Citations (Crossref),2022,538.0,,,,Historical
+biology,Citations (Crossref),2023,254.0,,,,Historical
+biology,Citations (Crossref),2024,402.0,,,,Historical
+biology,Citations (Crossref),2025,27.0,,,,Historical
+biology,Citations (Crossref),2026,,307.0916851376757,0.0,1170.8268816697237,Forecast
+biology,Altmetric Score,2005,16.45,,,,Historical
+biology,Altmetric Score,2006,0.0,,,,Historical
+biology,Altmetric Score,2007,0.0,,,,Historical
+biology,Altmetric Score,2008,0.0,,,,Historical
+biology,Altmetric Score,2009,0.0,,,,Historical
+biology,Altmetric Score,2010,3.0,,,,Historical
+biology,Altmetric Score,2011,51.25,,,,Historical
+biology,Altmetric Score,2012,14.25,,,,Historical
+biology,Altmetric Score,2013,440.7,,,,Historical
+biology,Altmetric Score,2014,232.60000000000002,,,,Historical
+biology,Altmetric Score,2015,156.85,,,,Historical
+biology,Altmetric Score,2016,86.1,,,,Historical
+biology,Altmetric Score,2017,502.95000000000005,,,,Historical
+biology,Altmetric Score,2018,1310.1,,,,Historical
+biology,Altmetric Score,2019,1853.35,,,,Historical
+biology,Altmetric Score,2020,2895.1500000000005,,,,Historical
+biology,Altmetric Score,2021,1541.1,,,,Historical
+biology,Altmetric Score,2022,846.4,,,,Historical
+biology,Altmetric Score,2023,386.09999999999997,,,,Historical
+biology,Altmetric Score,2024,5440.700000000001,,,,Historical
+biology,Altmetric Score,2025,63.849999999999994,,,,Historical
+biology,Altmetric Score,2026,,2909.875648752281,528.6597376837053,5291.091559820857,Forecast
+biology,Social Media Mentions,2005,26.0,,,,Historical
+biology,Social Media Mentions,2006,0.0,,,,Historical
+biology,Social Media Mentions,2007,0.0,,,,Historical
+biology,Social Media Mentions,2008,0.0,,,,Historical
+biology,Social Media Mentions,2009,0.0,,,,Historical
+biology,Social Media Mentions,2010,2.0,,,,Historical
+biology,Social Media Mentions,2011,19.0,,,,Historical
+biology,Social Media Mentions,2012,7.0,,,,Historical
+biology,Social Media Mentions,2013,179.0,,,,Historical
+biology,Social Media Mentions,2014,124.0,,,,Historical
+biology,Social Media Mentions,2015,102.0,,,,Historical
+biology,Social Media Mentions,2016,80.0,,,,Historical
+biology,Social Media Mentions,2017,236.0,,,,Historical
+biology,Social Media Mentions,2018,497.0,,,,Historical
+biology,Social Media Mentions,2019,919.0,,,,Historical
+biology,Social Media Mentions,2020,1513.0,,,,Historical
+biology,Social Media Mentions,2021,733.0,,,,Historical
+biology,Social Media Mentions,2022,605.0,,,,Historical
+biology,Social Media Mentions,2023,329.0,,,,Historical
+biology,Social Media Mentions,2024,1966.0,,,,Historical
+biology,Social Media Mentions,2025,116.0,,,,Historical
+biology,Social Media Mentions,2026,,1115.8954734700371,196.54899896047607,2035.241947979598,Forecast
+['medicine'],Citations (Crossref),1995,35.0,,,,Historical
+['medicine'],Citations (Crossref),1996,0.0,,,,Historical
+['medicine'],Citations (Crossref),1997,0.0,,,,Historical
+['medicine'],Citations (Crossref),1998,0.0,,,,Historical
+['medicine'],Citations (Crossref),1999,0.0,,,,Historical
+['medicine'],Citations (Crossref),2000,0.0,,,,Historical
+['medicine'],Citations (Crossref),2001,0.0,,,,Historical
+['medicine'],Citations (Crossref),2002,0.0,,,,Historical
+['medicine'],Citations (Crossref),2003,0.0,,,,Historical
+['medicine'],Citations (Crossref),2004,0.0,,,,Historical
+['medicine'],Citations (Crossref),2005,0.0,,,,Historical
+['medicine'],Citations (Crossref),2006,0.0,,,,Historical
+['medicine'],Citations (Crossref),2007,0.0,,,,Historical
+['medicine'],Citations (Crossref),2008,0.0,,,,Historical
+['medicine'],Citations (Crossref),2009,0.0,,,,Historical
+['medicine'],Citations (Crossref),2010,18.0,,,,Historical
+['medicine'],Citations (Crossref),2011,0.0,,,,Historical
+['medicine'],Citations (Crossref),2012,109.0,,,,Historical
+['medicine'],Citations (Crossref),2013,221.0,,,,Historical
+['medicine'],Citations (Crossref),2014,129.0,,,,Historical
+['medicine'],Citations (Crossref),2015,179.0,,,,Historical
+['medicine'],Citations (Crossref),2016,297.0,,,,Historical
+['medicine'],Citations (Crossref),2017,0.0,,,,Historical
+['medicine'],Citations (Crossref),2018,161.0,,,,Historical
+['medicine'],Citations (Crossref),2019,233.0,,,,Historical
+['medicine'],Citations (Crossref),2020,110.0,,,,Historical
+['medicine'],Citations (Crossref),2021,594.0,,,,Historical
+['medicine'],Citations (Crossref),2022,879.0,,,,Historical
+['medicine'],Citations (Crossref),2023,652.0,,,,Historical
+['medicine'],Citations (Crossref),2024,577.0,,,,Historical
+['medicine'],Citations (Crossref),2025,34.0,,,,Historical
+['medicine'],Citations (Crossref),2026,,0.0,0.0,195.76342927371047,Forecast
+['medicine'],Altmetric Score,1995,0.0,,,,Historical
+['medicine'],Altmetric Score,1996,0.0,,,,Historical
+['medicine'],Altmetric Score,1997,0.0,,,,Historical
+['medicine'],Altmetric Score,1998,0.0,,,,Historical
+['medicine'],Altmetric Score,1999,0.0,,,,Historical
+['medicine'],Altmetric Score,2000,0.0,,,,Historical
+['medicine'],Altmetric Score,2001,0.0,,,,Historical
+['medicine'],Altmetric Score,2002,0.0,,,,Historical
+['medicine'],Altmetric Score,2003,0.0,,,,Historical
+['medicine'],Altmetric Score,2004,0.0,,,,Historical
+['medicine'],Altmetric Score,2005,0.0,,,,Historical
+['medicine'],Altmetric Score,2006,0.0,,,,Historical
+['medicine'],Altmetric Score,2007,0.0,,,,Historical
+['medicine'],Altmetric Score,2008,0.0,,,,Historical
+['medicine'],Altmetric Score,2009,0.0,,,,Historical
+['medicine'],Altmetric Score,2010,0.0,,,,Historical
+['medicine'],Altmetric Score,2011,0.0,,,,Historical
+['medicine'],Altmetric Score,2012,19.25,,,,Historical
+['medicine'],Altmetric Score,2013,4.75,,,,Historical
+['medicine'],Altmetric Score,2014,12.45,,,,Historical
+['medicine'],Altmetric Score,2015,145.6,,,,Historical
+['medicine'],Altmetric Score,2016,2640.4,,,,Historical
+['medicine'],Altmetric Score,2017,0.0,,,,Historical
+['medicine'],Altmetric Score,2018,120.9,,,,Historical
+['medicine'],Altmetric Score,2019,51.150000000000006,,,,Historical
+['medicine'],Altmetric Score,2020,106.60000000000001,,,,Historical
+['medicine'],Altmetric Score,2021,1395.6,,,,Historical
+['medicine'],Altmetric Score,2022,7875.15,,,,Historical
+['medicine'],Altmetric Score,2023,1744.9500000000005,,,,Historical
+['medicine'],Altmetric Score,2024,7304.1,,,,Historical
+['medicine'],Altmetric Score,2025,626.45,,,,Historical
+['medicine'],Altmetric Score,2026,,6791.932194139856,3707.1466550534615,9876.71773322625,Forecast
+['medicine'],Social Media Mentions,1995,0.0,,,,Historical
+['medicine'],Social Media Mentions,1996,0.0,,,,Historical
+['medicine'],Social Media Mentions,1997,0.0,,,,Historical
+['medicine'],Social Media Mentions,1998,0.0,,,,Historical
+['medicine'],Social Media Mentions,1999,0.0,,,,Historical
+['medicine'],Social Media Mentions,2000,0.0,,,,Historical
+['medicine'],Social Media Mentions,2001,0.0,,,,Historical
+['medicine'],Social Media Mentions,2002,0.0,,,,Historical
+['medicine'],Social Media Mentions,2003,0.0,,,,Historical
+['medicine'],Social Media Mentions,2004,0.0,,,,Historical
+['medicine'],Social Media Mentions,2005,0.0,,,,Historical
+['medicine'],Social Media Mentions,2006,0.0,,,,Historical
+['medicine'],Social Media Mentions,2007,0.0,,,,Historical
+['medicine'],Social Media Mentions,2008,0.0,,,,Historical
+['medicine'],Social Media Mentions,2009,0.0,,,,Historical
+['medicine'],Social Media Mentions,2010,0.0,,,,Historical
+['medicine'],Social Media Mentions,2011,0.0,,,,Historical
+['medicine'],Social Media Mentions,2012,5.0,,,,Historical
+['medicine'],Social Media Mentions,2013,4.0,,,,Historical
+['medicine'],Social Media Mentions,2014,21.0,,,,Historical
+['medicine'],Social Media Mentions,2015,39.0,,,,Historical
+['medicine'],Social Media Mentions,2016,799.0,,,,Historical
+['medicine'],Social Media Mentions,2017,0.0,,,,Historical
+['medicine'],Social Media Mentions,2018,61.0,,,,Historical
+['medicine'],Social Media Mentions,2019,81.0,,,,Historical
+['medicine'],Social Media Mentions,2020,77.0,,,,Historical
+['medicine'],Social Media Mentions,2021,561.0,,,,Historical
+['medicine'],Social Media Mentions,2022,2534.0,,,,Historical
+['medicine'],Social Media Mentions,2023,1969.0,,,,Historical
+['medicine'],Social Media Mentions,2024,2545.0,,,,Historical
+['medicine'],Social Media Mentions,2025,222.0,,,,Historical
+['medicine'],Social Media Mentions,2026,,1219.1324392919296,149.4241805323088,2288.84069805155,Forecast
+medicine'],Citations (Crossref),2010,508.0,,,,Historical
+medicine'],Citations (Crossref),2011,435.0,,,,Historical
+medicine'],Citations (Crossref),2012,870.0,,,,Historical
+medicine'],Citations (Crossref),2013,1582.0,,,,Historical
+medicine'],Citations (Crossref),2014,1361.0,,,,Historical
+medicine'],Citations (Crossref),2015,401.0,,,,Historical
+medicine'],Citations (Crossref),2016,764.0,,,,Historical
+medicine'],Citations (Crossref),2017,636.0,,,,Historical
+medicine'],Citations (Crossref),2018,785.0,,,,Historical
+medicine'],Citations (Crossref),2019,804.0,,,,Historical
+medicine'],Citations (Crossref),2020,898.0,,,,Historical
+medicine'],Citations (Crossref),2021,223.0,,,,Historical
+medicine'],Citations (Crossref),2022,18.0,,,,Historical
+medicine'],Citations (Crossref),2023,19.0,,,,Historical
+medicine'],Citations (Crossref),2024,0.0,,,,Historical
+medicine'],Citations (Crossref),2025,1.0,,,,Historical
+medicine'],Citations (Crossref),2026,,124.73551473195339,0.0,861.411738593285,Forecast
+medicine'],Altmetric Score,2010,17.25,,,,Historical
+medicine'],Altmetric Score,2011,31.25,,,,Historical
+medicine'],Altmetric Score,2012,17.25,,,,Historical
+medicine'],Altmetric Score,2013,438.25,,,,Historical
+medicine'],Altmetric Score,2014,278.05,,,,Historical
+medicine'],Altmetric Score,2015,84.25,,,,Historical
+medicine'],Altmetric Score,2016,75.9,,,,Historical
+medicine'],Altmetric Score,2017,149.15,,,,Historical
+medicine'],Altmetric Score,2018,1311.6,,,,Historical
+medicine'],Altmetric Score,2019,1124.4,,,,Historical
+medicine'],Altmetric Score,2020,2645.9,,,,Historical
+medicine'],Altmetric Score,2021,872.2999999999998,,,,Historical
+medicine'],Altmetric Score,2022,45.8,,,,Historical
+medicine'],Altmetric Score,2023,60.7,,,,Historical
+medicine'],Altmetric Score,2024,0.0,,,,Historical
+medicine'],Altmetric Score,2025,2.0,,,,Historical
+medicine'],Altmetric Score,2026,,0.0,0.0,1369.533858008893,Forecast
+medicine'],Social Media Mentions,2010,6.0,,,,Historical
+medicine'],Social Media Mentions,2011,17.0,,,,Historical
+medicine'],Social Media Mentions,2012,9.0,,,,Historical
+medicine'],Social Media Mentions,2013,180.0,,,,Historical
+medicine'],Social Media Mentions,2014,158.0,,,,Historical
+medicine'],Social Media Mentions,2015,48.0,,,,Historical
+medicine'],Social Media Mentions,2016,95.0,,,,Historical
+medicine'],Social Media Mentions,2017,128.0,,,,Historical
+medicine'],Social Media Mentions,2018,498.0,,,,Historical
+medicine'],Social Media Mentions,2019,415.0,,,,Historical
+medicine'],Social Media Mentions,2020,1312.0,,,,Historical
+medicine'],Social Media Mentions,2021,403.0,,,,Historical
+medicine'],Social Media Mentions,2022,47.0,,,,Historical
+medicine'],Social Media Mentions,2023,45.0,,,,Historical
+medicine'],Social Media Mentions,2024,0.0,,,,Historical
+medicine'],Social Media Mentions,2025,5.0,,,,Historical
+medicine'],Social Media Mentions,2026,,99.43218821336816,0.0,717.48212299469,Forecast
+spaceflight,Citations (Crossref),1995,35.0,,,,Historical
+spaceflight,Citations (Crossref),1996,0.0,,,,Historical
+spaceflight,Citations (Crossref),1997,0.0,,,,Historical
+spaceflight,Citations (Crossref),1998,0.0,,,,Historical
+spaceflight,Citations (Crossref),1999,0.0,,,,Historical
+spaceflight,Citations (Crossref),2000,0.0,,,,Historical
+spaceflight,Citations (Crossref),2001,0.0,,,,Historical
+spaceflight,Citations (Crossref),2002,0.0,,,,Historical
+spaceflight,Citations (Crossref),2003,0.0,,,,Historical
+spaceflight,Citations (Crossref),2004,0.0,,,,Historical
+spaceflight,Citations (Crossref),2005,0.0,,,,Historical
+spaceflight,Citations (Crossref),2006,0.0,,,,Historical
+spaceflight,Citations (Crossref),2007,0.0,,,,Historical
+spaceflight,Citations (Crossref),2008,0.0,,,,Historical
+spaceflight,Citations (Crossref),2009,0.0,,,,Historical
+spaceflight,Citations (Crossref),2010,0.0,,,,Historical
+spaceflight,Citations (Crossref),2011,195.0,,,,Historical
+spaceflight,Citations (Crossref),2012,42.0,,,,Historical
+spaceflight,Citations (Crossref),2013,392.0,,,,Historical
+spaceflight,Citations (Crossref),2014,73.0,,,,Historical
+spaceflight,Citations (Crossref),2015,254.0,,,,Historical
+spaceflight,Citations (Crossref),2016,342.0,,,,Historical
+spaceflight,Citations (Crossref),2017,459.0,,,,Historical
+spaceflight,Citations (Crossref),2018,290.0,,,,Historical
+spaceflight,Citations (Crossref),2019,484.0,,,,Historical
+spaceflight,Citations (Crossref),2020,928.0,,,,Historical
+spaceflight,Citations (Crossref),2021,345.0,,,,Historical
+spaceflight,Citations (Crossref),2022,211.0,,,,Historical
+spaceflight,Citations (Crossref),2023,113.0,,,,Historical
+spaceflight,Citations (Crossref),2024,420.0,,,,Historical
+spaceflight,Citations (Crossref),2025,2.0,,,,Historical
+spaceflight,Citations (Crossref),2026,,199.72096537501494,0.0,542.2930179311271,Forecast
+spaceflight,Altmetric Score,1995,0.0,,,,Historical
+spaceflight,Altmetric Score,1996,0.0,,,,Historical
+spaceflight,Altmetric Score,1997,0.0,,,,Historical
+spaceflight,Altmetric Score,1998,0.0,,,,Historical
+spaceflight,Altmetric Score,1999,0.0,,,,Historical
+spaceflight,Altmetric Score,2000,0.0,,,,Historical
+spaceflight,Altmetric Score,2001,0.0,,,,Historical
+spaceflight,Altmetric Score,2002,0.0,,,,Historical
+spaceflight,Altmetric Score,2003,0.0,,,,Historical
+spaceflight,Altmetric Score,2004,0.0,,,,Historical
+spaceflight,Altmetric Score,2005,0.0,,,,Historical
+spaceflight,Altmetric Score,2006,0.0,,,,Historical
+spaceflight,Altmetric Score,2007,0.0,,,,Historical
+spaceflight,Altmetric Score,2008,0.0,,,,Historical
+spaceflight,Altmetric Score,2009,0.0,,,,Historical
+spaceflight,Altmetric Score,2010,0.0,,,,Historical
+spaceflight,Altmetric Score,2011,27.0,,,,Historical
+spaceflight,Altmetric Score,2012,19.0,,,,Historical
+spaceflight,Altmetric Score,2013,415.2,,,,Historical
+spaceflight,Altmetric Score,2014,215.50000000000003,,,,Historical
+spaceflight,Altmetric Score,2015,130.35,,,,Historical
+spaceflight,Altmetric Score,2016,1991.6499999999999,,,,Historical
+spaceflight,Altmetric Score,2017,113.55000000000001,,,,Historical
+spaceflight,Altmetric Score,2018,302.85,,,,Historical
+spaceflight,Altmetric Score,2019,282.29999999999995,,,,Historical
+spaceflight,Altmetric Score,2020,1445.1500000000003,,,,Historical
+spaceflight,Altmetric Score,2021,689.85,,,,Historical
+spaceflight,Altmetric Score,2022,990.95,,,,Historical
+spaceflight,Altmetric Score,2023,364.4,,,,Historical
+spaceflight,Altmetric Score,2024,6117.3,,,,Historical
+spaceflight,Altmetric Score,2025,399.1,,,,Historical
+spaceflight,Altmetric Score,2026,,3657.059135781066,1612.101381024852,5702.016890537279,Forecast
+spaceflight,Social Media Mentions,1995,0.0,,,,Historical
+spaceflight,Social Media Mentions,1996,0.0,,,,Historical
+spaceflight,Social Media Mentions,1997,0.0,,,,Historical
+spaceflight,Social Media Mentions,1998,0.0,,,,Historical
+spaceflight,Social Media Mentions,1999,0.0,,,,Historical
+spaceflight,Social Media Mentions,2000,0.0,,,,Historical
+spaceflight,Social Media Mentions,2001,0.0,,,,Historical
+spaceflight,Social Media Mentions,2002,0.0,,,,Historical
+spaceflight,Social Media Mentions,2003,0.0,,,,Historical
+spaceflight,Social Media Mentions,2004,0.0,,,,Historical
+spaceflight,Social Media Mentions,2005,0.0,,,,Historical
+spaceflight,Social Media Mentions,2006,0.0,,,,Historical
+spaceflight,Social Media Mentions,2007,0.0,,,,Historical
+spaceflight,Social Media Mentions,2008,0.0,,,,Historical
+spaceflight,Social Media Mentions,2009,0.0,,,,Historical
+spaceflight,Social Media Mentions,2010,0.0,,,,Historical
+spaceflight,Social Media Mentions,2011,6.0,,,,Historical
+spaceflight,Social Media Mentions,2012,4.0,,,,Historical
+spaceflight,Social Media Mentions,2013,161.0,,,,Historical
+spaceflight,Social Media Mentions,2014,106.0,,,,Historical
+spaceflight,Social Media Mentions,2015,50.0,,,,Historical
+spaceflight,Social Media Mentions,2016,666.0,,,,Historical
+spaceflight,Social Media Mentions,2017,66.0,,,,Historical
+spaceflight,Social Media Mentions,2018,99.0,,,,Historical
+spaceflight,Social Media Mentions,2019,155.0,,,,Historical
+spaceflight,Social Media Mentions,2020,1113.0,,,,Historical
+spaceflight,Social Media Mentions,2021,297.0,,,,Historical
+spaceflight,Social Media Mentions,2022,333.0,,,,Historical
+spaceflight,Social Media Mentions,2023,165.0,,,,Historical
+spaceflight,Social Media Mentions,2024,1812.0,,,,Historical
+spaceflight,Social Media Mentions,2025,66.0,,,,Historical
+spaceflight,Social Media Mentions,2026,,410.829833057555,0.0,1113.4831049831537,Forecast
+['biology,Citations (Crossref),2010,300.0,,,,Historical
+['biology,Citations (Crossref),2011,435.0,,,,Historical
+['biology,Citations (Crossref),2012,870.0,,,,Historical
+['biology,Citations (Crossref),2013,1305.0,,,,Historical
+['biology,Citations (Crossref),2014,1348.0,,,,Historical
+['biology,Citations (Crossref),2015,260.0,,,,Historical
+['biology,Citations (Crossref),2016,586.0,,,,Historical
+['biology,Citations (Crossref),2017,512.0,,,,Historical
+['biology,Citations (Crossref),2018,559.0,,,,Historical
+['biology,Citations (Crossref),2019,571.0,,,,Historical
+['biology,Citations (Crossref),2020,799.0,,,,Historical
+['biology,Citations (Crossref),2021,111.0,,,,Historical
+['biology,Citations (Crossref),2022,3.0,,,,Historical
+['biology,Citations (Crossref),2023,19.0,,,,Historical
+['biology,Citations (Crossref),2024,0.0,,,,Historical
+['biology,Citations (Crossref),2025,1.0,,,,Historical
+['biology,Citations (Crossref),2026,,125.97513264867607,0.0,832.8669694156152,Forecast
+['biology,Altmetric Score,2010,6.0,,,,Historical
+['biology,Altmetric Score,2011,31.25,,,,Historical
+['biology,Altmetric Score,2012,17.25,,,,Historical
+['biology,Altmetric Score,2013,371.2,,,,Historical
+['biology,Altmetric Score,2014,277.8,,,,Historical
+['biology,Altmetric Score,2015,47.25,,,,Historical
+['biology,Altmetric Score,2016,75.65,,,,Historical
+['biology,Altmetric Score,2017,125.75,,,,Historical
+['biology,Altmetric Score,2018,1208.05,,,,Historical
+['biology,Altmetric Score,2019,1002.45,,,,Historical
+['biology,Altmetric Score,2020,2431.9500000000003,,,,Historical
+['biology,Altmetric Score,2021,857.6499999999999,,,,Historical
+['biology,Altmetric Score,2022,0.0,,,,Historical
+['biology,Altmetric Score,2023,60.7,,,,Historical
+['biology,Altmetric Score,2024,0.0,,,,Historical
+['biology,Altmetric Score,2025,2.0,,,,Historical
+['biology,Altmetric Score,2026,,0.0,0.0,1268.6948288109434,Forecast
+['biology,Social Media Mentions,2010,3.0,,,,Historical
+['biology,Social Media Mentions,2011,17.0,,,,Historical
+['biology,Social Media Mentions,2012,9.0,,,,Historical
+['biology,Social Media Mentions,2013,146.0,,,,Historical
+['biology,Social Media Mentions,2014,157.0,,,,Historical
+['biology,Social Media Mentions,2015,36.0,,,,Historical
+['biology,Social Media Mentions,2016,94.0,,,,Historical
+['biology,Social Media Mentions,2017,98.0,,,,Historical
+['biology,Social Media Mentions,2018,417.0,,,,Historical
+['biology,Social Media Mentions,2019,366.0,,,,Historical
+['biology,Social Media Mentions,2020,1243.0,,,,Historical
+['biology,Social Media Mentions,2021,381.0,,,,Historical
+['biology,Social Media Mentions,2022,0.0,,,,Historical
+['biology,Social Media Mentions,2023,45.0,,,,Historical
+['biology,Social Media Mentions,2024,0.0,,,,Historical
+['biology,Social Media Mentions,2025,5.0,,,,Historical
+['biology,Social Media Mentions,2026,,94.41839861614537,0.0,683.5177011165842,Forecast
+['medicine,Citations (Crossref),2005,1714.0,,,,Historical
+['medicine,Citations (Crossref),2006,0.0,,,,Historical
+['medicine,Citations (Crossref),2007,0.0,,,,Historical
+['medicine,Citations (Crossref),2008,0.0,,,,Historical
+['medicine,Citations (Crossref),2009,0.0,,,,Historical
+['medicine,Citations (Crossref),2010,177.0,,,,Historical
+['medicine,Citations (Crossref),2011,323.0,,,,Historical
+['medicine,Citations (Crossref),2012,424.0,,,,Historical
+['medicine,Citations (Crossref),2013,96.0,,,,Historical
+['medicine,Citations (Crossref),2014,210.0,,,,Historical
+['medicine,Citations (Crossref),2015,740.0,,,,Historical
+['medicine,Citations (Crossref),2016,187.0,,,,Historical
+['medicine,Citations (Crossref),2017,508.0,,,,Historical
+['medicine,Citations (Crossref),2018,550.0,,,,Historical
+['medicine,Citations (Crossref),2019,481.0,,,,Historical
+['medicine,Citations (Crossref),2020,684.0,,,,Historical
+['medicine,Citations (Crossref),2021,120.0,,,,Historical
+['medicine,Citations (Crossref),2022,61.0,,,,Historical
+['medicine,Citations (Crossref),2023,5.0,,,,Historical
+['medicine,Citations (Crossref),2024,7.0,,,,Historical
+['medicine,Citations (Crossref),2025,0.0,,,,Historical
+['medicine,Citations (Crossref),2026,,439.07766281752475,0.0,1165.3781746747322,Forecast
+['medicine,Altmetric Score,2005,16.45,,,,Historical
+['medicine,Altmetric Score,2006,0.0,,,,Historical
+['medicine,Altmetric Score,2007,0.0,,,,Historical
+['medicine,Altmetric Score,2008,0.0,,,,Historical
+['medicine,Altmetric Score,2009,0.0,,,,Historical
+['medicine,Altmetric Score,2010,3.0,,,,Historical
+['medicine,Altmetric Score,2011,40.5,,,,Historical
+['medicine,Altmetric Score,2012,76.60000000000001,,,,Historical
+['medicine,Altmetric Score,2013,1.5,,,,Historical
+['medicine,Altmetric Score,2014,18.45,,,,Historical
+['medicine,Altmetric Score,2015,149.0,,,,Historical
+['medicine,Altmetric Score,2016,53.5,,,,Historical
+['medicine,Altmetric Score,2017,105.14999999999999,,,,Historical
+['medicine,Altmetric Score,2018,214.3,,,,Historical
+['medicine,Altmetric Score,2019,900.2999999999997,,,,Historical
+['medicine,Altmetric Score,2020,610.0500000000001,,,,Historical
+['medicine,Altmetric Score,2021,53.349999999999994,,,,Historical
+['medicine,Altmetric Score,2022,89.25,,,,Historical
+['medicine,Altmetric Score,2023,4.0,,,,Historical
+['medicine,Altmetric Score,2024,15.6,,,,Historical
+['medicine,Altmetric Score,2025,0.0,,,,Historical
+['medicine,Altmetric Score,2026,,39.98506828825384,0.0,419.98325573565324,Forecast
+['medicine,Social Media Mentions,2005,26.0,,,,Historical
+['medicine,Social Media Mentions,2006,0.0,,,,Historical
+['medicine,Social Media Mentions,2007,0.0,,,,Historical
+['medicine,Social Media Mentions,2008,0.0,,,,Historical
+['medicine,Social Media Mentions,2009,0.0,,,,Historical
+['medicine,Social Media Mentions,2010,1.0,,,,Historical
+['medicine,Social Media Mentions,2011,8.0,,,,Historical
+['medicine,Social Media Mentions,2012,59.0,,,,Historical
+['medicine,Social Media Mentions,2013,4.0,,,,Historical
+['medicine,Social Media Mentions,2014,22.0,,,,Historical
+['medicine,Social Media Mentions,2015,109.0,,,,Historical
+['medicine,Social Media Mentions,2016,41.0,,,,Historical
+['medicine,Social Media Mentions,2017,83.0,,,,Historical
+['medicine,Social Media Mentions,2018,118.0,,,,Historical
+['medicine,Social Media Mentions,2019,520.0,,,,Historical
+['medicine,Social Media Mentions,2020,388.0,,,,Historical
+['medicine,Social Media Mentions,2021,73.0,,,,Historical
+['medicine,Social Media Mentions,2022,85.0,,,,Historical
+['medicine,Social Media Mentions,2023,6.0,,,,Historical
+['medicine,Social Media Mentions,2024,13.0,,,,Historical
+['medicine,Social Media Mentions,2025,0.0,,,,Historical
+['medicine,Social Media Mentions,2026,,25.016082697244975,0.0,245.63954497596177,Forecast
+biology'],Citations (Crossref),2005,1714.0,,,,Historical
+biology'],Citations (Crossref),2006,0.0,,,,Historical
+biology'],Citations (Crossref),2007,0.0,,,,Historical
+biology'],Citations (Crossref),2008,0.0,,,,Historical
+biology'],Citations (Crossref),2009,0.0,,,,Historical
+biology'],Citations (Crossref),2010,61.0,,,,Historical
+biology'],Citations (Crossref),2011,279.0,,,,Historical
+biology'],Citations (Crossref),2012,349.0,,,,Historical
+biology'],Citations (Crossref),2013,93.0,,,,Historical
+biology'],Citations (Crossref),2014,210.0,,,,Historical
+biology'],Citations (Crossref),2015,476.0,,,,Historical
+biology'],Citations (Crossref),2016,81.0,,,,Historical
+biology'],Citations (Crossref),2017,485.0,,,,Historical
+biology'],Citations (Crossref),2018,465.0,,,,Historical
+biology'],Citations (Crossref),2019,410.0,,,,Historical
+biology'],Citations (Crossref),2020,369.0,,,,Historical
+biology'],Citations (Crossref),2021,120.0,,,,Historical
+biology'],Citations (Crossref),2022,61.0,,,,Historical
+biology'],Citations (Crossref),2023,5.0,,,,Historical
+biology'],Citations (Crossref),2024,7.0,,,,Historical
+biology'],Citations (Crossref),2025,0.0,,,,Historical
+biology'],Citations (Crossref),2026,,410.279636909862,0.0,1083.8176532008101,Forecast
+biology'],Altmetric Score,2005,16.45,,,,Historical
+biology'],Altmetric Score,2006,0.0,,,,Historical
+biology'],Altmetric Score,2007,0.0,,,,Historical
+biology'],Altmetric Score,2008,0.0,,,,Historical
+biology'],Altmetric Score,2009,0.0,,,,Historical
+biology'],Altmetric Score,2010,0.0,,,,Historical
+biology'],Altmetric Score,2011,33.0,,,,Historical
+biology'],Altmetric Score,2012,76.60000000000001,,,,Historical
+biology'],Altmetric Score,2013,1.5,,,,Historical
+biology'],Altmetric Score,2014,18.45,,,,Historical
+biology'],Altmetric Score,2015,142.64999999999998,,,,Historical
+biology'],Altmetric Score,2016,32.25,,,,Historical
+biology'],Altmetric Score,2017,105.14999999999999,,,,Historical
+biology'],Altmetric Score,2018,175.15,,,,Historical
+biology'],Altmetric Score,2019,856.7999999999997,,,,Historical
+biology'],Altmetric Score,2020,359.5,,,,Historical
+biology'],Altmetric Score,2021,53.349999999999994,,,,Historical
+biology'],Altmetric Score,2022,89.25,,,,Historical
+biology'],Altmetric Score,2023,4.0,,,,Historical
+biology'],Altmetric Score,2024,15.6,,,,Historical
+biology'],Altmetric Score,2025,0.0,,,,Historical
+biology'],Altmetric Score,2026,,45.48373187703887,0.0,398.636962454251,Forecast
+biology'],Social Media Mentions,2005,26.0,,,,Historical
+biology'],Social Media Mentions,2006,0.0,,,,Historical
+biology'],Social Media Mentions,2007,0.0,,,,Historical
+biology'],Social Media Mentions,2008,0.0,,,,Historical
+biology'],Social Media Mentions,2009,0.0,,,,Historical
+biology'],Social Media Mentions,2010,0.0,,,,Historical
+biology'],Social Media Mentions,2011,6.0,,,,Historical
+biology'],Social Media Mentions,2012,59.0,,,,Historical
+biology'],Social Media Mentions,2013,4.0,,,,Historical
+biology'],Social Media Mentions,2014,22.0,,,,Historical
+biology'],Social Media Mentions,2015,96.0,,,,Historical
+biology'],Social Media Mentions,2016,29.0,,,,Historical
+biology'],Social Media Mentions,2017,83.0,,,,Historical
+biology'],Social Media Mentions,2018,103.0,,,,Historical
+biology'],Social Media Mentions,2019,512.0,,,,Historical
+biology'],Social Media Mentions,2020,209.0,,,,Historical
+biology'],Social Media Mentions,2021,73.0,,,,Historical
+biology'],Social Media Mentions,2022,85.0,,,,Historical
+biology'],Social Media Mentions,2023,6.0,,,,Historical
+biology'],Social Media Mentions,2024,13.0,,,,Historical
+biology'],Social Media Mentions,2025,0.0,,,,Historical
+biology'],Social Media Mentions,2026,,30.911009806941006,0.0,240.6710343156186,Forecast
+cell biology,Citations (Crossref),2010,56.0,,,,Historical
+cell biology,Citations (Crossref),2011,88.0,,,,Historical
+cell biology,Citations (Crossref),2012,190.0,,,,Historical
+cell biology,Citations (Crossref),2013,914.0,,,,Historical
+cell biology,Citations (Crossref),2014,117.0,,,,Historical
+cell biology,Citations (Crossref),2015,247.0,,,,Historical
+cell biology,Citations (Crossref),2016,126.0,,,,Historical
+cell biology,Citations (Crossref),2017,394.0,,,,Historical
+cell biology,Citations (Crossref),2018,229.0,,,,Historical
+cell biology,Citations (Crossref),2019,49.0,,,,Historical
+cell biology,Citations (Crossref),2020,245.0,,,,Historical
+cell biology,Citations (Crossref),2021,123.0,,,,Historical
+cell biology,Citations (Crossref),2022,157.0,,,,Historical
+cell biology,Citations (Crossref),2023,26.0,,,,Historical
+cell biology,Citations (Crossref),2024,38.0,,,,Historical
+cell biology,Citations (Crossref),2025,12.0,,,,Historical
+cell biology,Citations (Crossref),2026,,177.25311229269477,0.0,620.6868535764752,Forecast
+cell biology,Altmetric Score,2010,0.0,,,,Historical
+cell biology,Altmetric Score,2011,0.0,,,,Historical
+cell biology,Altmetric Score,2012,0.0,,,,Historical
+cell biology,Altmetric Score,2013,16.5,,,,Historical
+cell biology,Altmetric Score,2014,15.2,,,,Historical
+cell biology,Altmetric Score,2015,49.1,,,,Historical
+cell biology,Altmetric Score,2016,11.25,,,,Historical
+cell biology,Altmetric Score,2017,12.95,,,,Historical
+cell biology,Altmetric Score,2018,121.10000000000001,,,,Historical
+cell biology,Altmetric Score,2019,74.3,,,,Historical
+cell biology,Altmetric Score,2020,224.55,,,,Historical
+cell biology,Altmetric Score,2021,13.6,,,,Historical
+cell biology,Altmetric Score,2022,180.65,,,,Historical
+cell biology,Altmetric Score,2023,67.3,,,,Historical
+cell biology,Altmetric Score,2024,278.95,,,,Historical
+cell biology,Altmetric Score,2025,35.599999999999994,,,,Historical
+cell biology,Altmetric Score,2026,,256.6928229322839,143.64252628313676,369.743119581431,Forecast
+cell biology,Social Media Mentions,2010,0.0,,,,Historical
+cell biology,Social Media Mentions,2011,0.0,,,,Historical
+cell biology,Social Media Mentions,2012,0.0,,,,Historical
+cell biology,Social Media Mentions,2013,12.0,,,,Historical
+cell biology,Social Media Mentions,2014,22.0,,,,Historical
+cell biology,Social Media Mentions,2015,32.0,,,,Historical
+cell biology,Social Media Mentions,2016,24.0,,,,Historical
+cell biology,Social Media Mentions,2017,30.0,,,,Historical
+cell biology,Social Media Mentions,2018,69.0,,,,Historical
+cell biology,Social Media Mentions,2019,23.0,,,,Historical
+cell biology,Social Media Mentions,2020,128.0,,,,Historical
+cell biology,Social Media Mentions,2021,25.0,,,,Historical
+cell biology,Social Media Mentions,2022,105.0,,,,Historical
+cell biology,Social Media Mentions,2023,26.0,,,,Historical
+cell biology,Social Media Mentions,2024,145.0,,,,Historical
+cell biology,Social Media Mentions,2025,64.0,,,,Historical
+cell biology,Social Media Mentions,2026,,140.25880638840403,89.03332575262063,191.48428702418744,Forecast
+medicine,Citations (Crossref),1995,35.0,,,,Historical
+medicine,Citations (Crossref),1996,0.0,,,,Historical
+medicine,Citations (Crossref),1997,0.0,,,,Historical
+medicine,Citations (Crossref),1998,0.0,,,,Historical
+medicine,Citations (Crossref),1999,0.0,,,,Historical
+medicine,Citations (Crossref),2000,0.0,,,,Historical
+medicine,Citations (Crossref),2001,0.0,,,,Historical
+medicine,Citations (Crossref),2002,0.0,,,,Historical
+medicine,Citations (Crossref),2003,0.0,,,,Historical
+medicine,Citations (Crossref),2004,0.0,,,,Historical
+medicine,Citations (Crossref),2005,0.0,,,,Historical
+medicine,Citations (Crossref),2006,0.0,,,,Historical
+medicine,Citations (Crossref),2007,0.0,,,,Historical
+medicine,Citations (Crossref),2008,0.0,,,,Historical
+medicine,Citations (Crossref),2009,0.0,,,,Historical
+medicine,Citations (Crossref),2010,66.0,,,,Historical
+medicine,Citations (Crossref),2011,0.0,,,,Historical
+medicine,Citations (Crossref),2012,147.0,,,,Historical
+medicine,Citations (Crossref),2013,54.0,,,,Historical
+medicine,Citations (Crossref),2014,84.0,,,,Historical
+medicine,Citations (Crossref),2015,123.0,,,,Historical
+medicine,Citations (Crossref),2016,88.0,,,,Historical
+medicine,Citations (Crossref),2017,0.0,,,,Historical
+medicine,Citations (Crossref),2018,134.0,,,,Historical
+medicine,Citations (Crossref),2019,229.0,,,,Historical
+medicine,Citations (Crossref),2020,128.0,,,,Historical
+medicine,Citations (Crossref),2021,25.0,,,,Historical
+medicine,Citations (Crossref),2022,50.0,,,,Historical
+medicine,Citations (Crossref),2023,2.0,,,,Historical
+medicine,Citations (Crossref),2024,2.0,,,,Historical
+medicine,Citations (Crossref),2025,3.0,,,,Historical
+medicine,Citations (Crossref),2026,,16.92601538700827,0.0,114.6449469385941,Forecast
+medicine,Altmetric Score,1995,0.0,,,,Historical
+medicine,Altmetric Score,1996,0.0,,,,Historical
+medicine,Altmetric Score,1997,0.0,,,,Historical
+medicine,Altmetric Score,1998,0.0,,,,Historical
+medicine,Altmetric Score,1999,0.0,,,,Historical
+medicine,Altmetric Score,2000,0.0,,,,Historical
+medicine,Altmetric Score,2001,0.0,,,,Historical
+medicine,Altmetric Score,2002,0.0,,,,Historical
+medicine,Altmetric Score,2003,0.0,,,,Historical
+medicine,Altmetric Score,2004,0.0,,,,Historical
+medicine,Altmetric Score,2005,0.0,,,,Historical
+medicine,Altmetric Score,2006,0.0,,,,Historical
+medicine,Altmetric Score,2007,0.0,,,,Historical
+medicine,Altmetric Score,2008,0.0,,,,Historical
+medicine,Altmetric Score,2009,0.0,,,,Historical
+medicine,Altmetric Score,2010,8.0,,,,Historical
+medicine,Altmetric Score,2011,0.0,,,,Historical
+medicine,Altmetric Score,2012,19.0,,,,Historical
+medicine,Altmetric Score,2013,8.0,,,,Historical
+medicine,Altmetric Score,2014,10.0,,,,Historical
+medicine,Altmetric Score,2015,150.79999999999998,,,,Historical
+medicine,Altmetric Score,2016,6.0,,,,Historical
+medicine,Altmetric Score,2017,0.0,,,,Historical
+medicine,Altmetric Score,2018,147.4,,,,Historical
+medicine,Altmetric Score,2019,75.5,,,,Historical
+medicine,Altmetric Score,2020,98.3,,,,Historical
+medicine,Altmetric Score,2021,11.4,,,,Historical
+medicine,Altmetric Score,2022,209.35000000000002,,,,Historical
+medicine,Altmetric Score,2023,10.3,,,,Historical
+medicine,Altmetric Score,2024,14.0,,,,Historical
+medicine,Altmetric Score,2025,10.5,,,,Historical
+medicine,Altmetric Score,2026,,35.584578936390855,0.0,133.38299909104165,Forecast
+medicine,Social Media Mentions,1995,0.0,,,,Historical
+medicine,Social Media Mentions,1996,0.0,,,,Historical
+medicine,Social Media Mentions,1997,0.0,,,,Historical
+medicine,Social Media Mentions,1998,0.0,,,,Historical
+medicine,Social Media Mentions,1999,0.0,,,,Historical
+medicine,Social Media Mentions,2000,0.0,,,,Historical
+medicine,Social Media Mentions,2001,0.0,,,,Historical
+medicine,Social Media Mentions,2002,0.0,,,,Historical
+medicine,Social Media Mentions,2003,0.0,,,,Historical
+medicine,Social Media Mentions,2004,0.0,,,,Historical
+medicine,Social Media Mentions,2005,0.0,,,,Historical
+medicine,Social Media Mentions,2006,0.0,,,,Historical
+medicine,Social Media Mentions,2007,0.0,,,,Historical
+medicine,Social Media Mentions,2008,0.0,,,,Historical
+medicine,Social Media Mentions,2009,0.0,,,,Historical
+medicine,Social Media Mentions,2010,1.0,,,,Historical
+medicine,Social Media Mentions,2011,0.0,,,,Historical
+medicine,Social Media Mentions,2012,4.0,,,,Historical
+medicine,Social Media Mentions,2013,2.0,,,,Historical
+medicine,Social Media Mentions,2014,17.0,,,,Historical
+medicine,Social Media Mentions,2015,47.0,,,,Historical
+medicine,Social Media Mentions,2016,12.0,,,,Historical
+medicine,Social Media Mentions,2017,0.0,,,,Historical
+medicine,Social Media Mentions,2018,68.0,,,,Historical
+medicine,Social Media Mentions,2019,17.0,,,,Historical
+medicine,Social Media Mentions,2020,56.0,,,,Historical
+medicine,Social Media Mentions,2021,17.0,,,,Historical
+medicine,Social Media Mentions,2022,77.0,,,,Historical
+medicine,Social Media Mentions,2023,15.0,,,,Historical
+medicine,Social Media Mentions,2024,2.0,,,,Historical
+medicine,Social Media Mentions,2025,6.0,,,,Historical
+medicine,Social Media Mentions,2026,,16.41723627456238,0.0,53.150535058265206,Forecast
+transcriptome,Citations (Crossref),2010,48.0,,,,Historical
+transcriptome,Citations (Crossref),2011,0.0,,,,Historical
+transcriptome,Citations (Crossref),2012,0.0,,,,Historical
+transcriptome,Citations (Crossref),2013,0.0,,,,Historical
+transcriptome,Citations (Crossref),2014,0.0,,,,Historical
+transcriptome,Citations (Crossref),2015,0.0,,,,Historical
+transcriptome,Citations (Crossref),2016,30.0,,,,Historical
+transcriptome,Citations (Crossref),2017,360.0,,,,Historical
+transcriptome,Citations (Crossref),2018,50.0,,,,Historical
+transcriptome,Citations (Crossref),2019,29.0,,,,Historical
+transcriptome,Citations (Crossref),2020,368.0,,,,Historical
+transcriptome,Citations (Crossref),2021,88.0,,,,Historical
+transcriptome,Citations (Crossref),2022,72.0,,,,Historical
+transcriptome,Citations (Crossref),2023,74.0,,,,Historical
+transcriptome,Citations (Crossref),2024,70.0,,,,Historical
+transcriptome,Citations (Crossref),2025,0.0,,,,Historical
+transcriptome,Citations (Crossref),2026,,78.50713453534325,0.0,319.42115317638587,Forecast
+transcriptome,Altmetric Score,2010,0.0,,,,Historical
+transcriptome,Altmetric Score,2011,0.0,,,,Historical
+transcriptome,Altmetric Score,2012,0.0,,,,Historical
+transcriptome,Altmetric Score,2013,0.0,,,,Historical
+transcriptome,Altmetric Score,2014,0.0,,,,Historical
+transcriptome,Altmetric Score,2015,0.0,,,,Historical
+transcriptome,Altmetric Score,2016,13.75,,,,Historical
+transcriptome,Altmetric Score,2017,66.6,,,,Historical
+transcriptome,Altmetric Score,2018,5.5,,,,Historical
+transcriptome,Altmetric Score,2019,1.25,,,,Historical
+transcriptome,Altmetric Score,2020,906.7000000000003,,,,Historical
+transcriptome,Altmetric Score,2021,65.3,,,,Historical
+transcriptome,Altmetric Score,2022,224.35,,,,Historical
+transcriptome,Altmetric Score,2023,147.3,,,,Historical
+transcriptome,Altmetric Score,2024,3614.7500000000005,,,,Historical
+transcriptome,Altmetric Score,2025,14.2,,,,Historical
+transcriptome,Altmetric Score,2026,,656.0796665339249,0.0,2350.447446021167,Forecast
+transcriptome,Social Media Mentions,2010,0.0,,,,Historical
+transcriptome,Social Media Mentions,2011,0.0,,,,Historical
+transcriptome,Social Media Mentions,2012,0.0,,,,Historical
+transcriptome,Social Media Mentions,2013,0.0,,,,Historical
+transcriptome,Social Media Mentions,2014,0.0,,,,Historical
+transcriptome,Social Media Mentions,2015,0.0,,,,Historical
+transcriptome,Social Media Mentions,2016,9.0,,,,Historical
+transcriptome,Social Media Mentions,2017,41.0,,,,Historical
+transcriptome,Social Media Mentions,2018,10.0,,,,Historical
+transcriptome,Social Media Mentions,2019,4.0,,,,Historical
+transcriptome,Social Media Mentions,2020,758.0,,,,Historical
+transcriptome,Social Media Mentions,2021,93.0,,,,Historical
+transcriptome,Social Media Mentions,2022,117.0,,,,Historical
+transcriptome,Social Media Mentions,2023,94.0,,,,Historical
+transcriptome,Social Media Mentions,2024,875.0,,,,Historical
+transcriptome,Social Media Mentions,2025,12.0,,,,Historical
+transcriptome,Social Media Mentions,2026,,231.47138126834062,0.0,735.9342476719858,Forecast

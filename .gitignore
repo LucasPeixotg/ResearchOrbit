@@ -1,0 +1,8 @@
+data/*.pdf
+summaries/*.pdf
+summaries/*.json
+virtualenv
+faiss_index
+**/*.DS_Store
+*/__pycache__
+venv
