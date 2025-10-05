@@ -22,7 +22,7 @@ services:
       context: ./ragcontext
       dockerfile: rag.Dockerfile
     ports:
-      - "5000:5000"
+      - "6550:6550"
     environment:
       - OLLAMA_HOST=http://ollama:11434
     depends_on:
@@ -40,13 +40,13 @@ services:
     networks:
       - app_network
 
-  # frontend:
-  #   build:
-  #     context: ./http/research-orbits
-  #   ports:
-  #     - "3000:3000"
-  #   networks:
-  #     - app_network
+  frontend:
+    build:
+      context: ./http/research-orbits
+    ports:
+      - "3000:3000"
+    networks:
+      - app_network
 
 volumes:
   ollama_data:
