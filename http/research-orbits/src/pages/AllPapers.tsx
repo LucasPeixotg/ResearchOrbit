@@ -1,5 +1,5 @@
 // src/pages/AllPapers.tsx
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useCallback, useEffect, useMemo, useState } from "react";
 import Navbar from "./components/Navbar.tsx";
 import PaperCard from "./components/PaperCard";
 import { loadPapers, type Paper } from "./lib/papers.ts";
@@ -8,12 +8,14 @@ import { useBookmarks } from "./hooks/useBookmarks.ts";
 // graph
 import CitationNetwork from "./components/CitationNetwork";
 import { buildCitationGraph, type Graph } from "./lib/citationGraph.ts";
+import { Filter, X } from "lucide-react";
 
 const CACHE_KEY = "citationGraph:v2";
 
 export default function AllPapers() {
   const [papers, setPapers] = useState<Paper[]>([]);
   const { isBookmarked, toggle } = useBookmarks();
+  const [activeConcepts, setActiveConcepts] = useState<Set<string>>(new Set());
 
   // graph state
   const [graph, setGraph] = useState<Graph | null>(null);
@@ -24,6 +26,48 @@ export default function AllPapers() {
   useEffect(() => {
     (async () => setPapers(await loadPapers()))();
   }, []);
+
+  const topConcepts = useMemo(() => {
+    const conceptCounts = new Map<string, number>();
+
+    // 1. Count the frequency of every concept
+    papers.forEach(paper => {
+      paper.concepts?.forEach(concept => {
+        const lowerConcept = concept.toLowerCase();
+        // 2. Filter out excluded terms during counting
+        // if (!CONCEPTS_TO_EXCLUDE.has(lowerConcept)) {
+        conceptCounts.set(concept, (conceptCounts.get(concept) || 0) + 1);
+        // }
+      });
+    });
+
+    // 3. Sort by frequency (descending) and take the top 10
+    return Array.from(conceptCounts.entries())
+      .sort((a, b) => b[1] - a[1]) // Sort by count
+      .slice(0, 10) // Take the top 10
+      .map(entry => entry[0]); // Return just the concept name
+  }, [papers]);
+
+  const handleConceptToggle = useCallback((concept: string) => {
+    setActiveConcepts(prev => {
+      const newSet = new Set(prev);
+      if (newSet.has(concept)) {
+        newSet.delete(concept);
+      } else {
+        newSet.add(concept);
+      }
+      return newSet;
+    });
+  }, []);
+
+  const filteredPapers = useMemo(() => {
+    if (activeConcepts.size === 0) {
+      return papers;
+    }
+    return papers.filter(p => 
+      p.concepts?.some(concept => activeConcepts.has(concept))
+    );
+  }, [papers, activeConcepts]);
 
   // Build seed DOIs and titles map (ALL from CSV)
   const { seedDois, titlesByDoi } = useMemo(() => {
@@ -153,19 +197,68 @@ export default function AllPapers() {
             )}
           </div>
 
+          <div className="mt-12 p-6 bg-white/5 border border-white/10 rounded-xl">
+            <div className="flex justify-between items-center mb-4">
+              <div className="flex items-center gap-2">
+                <Filter className="size-5 text-gray-400" />
+                <h3 className="text-lg font-semibold">Filter by Concept</h3>
+              </div>
+              {activeConcepts.size > 0 && (
+                <button
+                  onClick={() => setActiveConcepts(new Set())}
+                  className="flex items-center gap-1.5 text-sm text-violet-300 hover:text-white transition-colors"
+                >
+                  <X className="size-4" />
+                  Clear All
+                </button>
+              )}
+            </div>
+            <div className="flex flex-wrap gap-2">
+              {topConcepts.map(concept => {
+                const isActive = activeConcepts.has(concept);
+                return (
+                  <button
+                    key={concept}
+                    onClick={() => handleConceptToggle(concept)}
+                    className={`
+                      px-3 py-1.5 text-xs font-medium rounded-full border transition-colors
+                      ${isActive 
+                        ? 'bg-violet-500 border-violet-500 text-white' 
+                        : 'bg-white/5 border-white/15 hover:bg-white/10 hover:border-white/25'
+                      }
+                    `}
+                  >
+                    {concept}
+                  </button>
+                )
+              })}
+            </div>
+          </div>
+
           {/* ---- Cards ---- */}
           <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {papers.map((p) => (
-              <PaperCard
-                key={p.id}
-                p={p}
-                isSaved={isBookmarked(p.id)}
-                onToggleSave={toggle}
-              />
-            ))}
-            {papers.length === 0 && (
+            {papers.length > 0 ? (
+              filteredPapers.length > 0 ? (
+                // If we have papers AND the filter returns results, show them
+                filteredPapers.map((p) => (
+                  <PaperCard
+                    key={p.id}
+                    p={p}
+                    isSaved={isBookmarked(p.id)}
+                    onToggleSave={() => toggle(p.id)} // Correctly pass the ID
+                  />
+                ))
+              ) : (
+                // If we have papers but the filter returns ZERO results, show the "no match" message
+                <div className="text-white/70 text-center col-span-full py-16">
+                  <h3 className="text-xl font-semibold">No papers found</h3>
+                  <p className="mt-2">Your search for "{searchQuery}" did not match any papers.</p>
+                </div>
+              )
+            ) : (
+              // If there are no papers loaded yet, show a loading/empty message
               <div className="text-white/70 text-center col-span-full">
-                No rows found. Make sure <code>public/papers_enriched.csv</code> exists.
+                Loading papers...
               </div>
             )}
           </div>
