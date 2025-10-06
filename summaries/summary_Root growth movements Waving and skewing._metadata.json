@@ -1,8 +1,0 @@
-{
-  "source": "TNO1, a TGN-localized SNARE-interacting protein, modulates root skewing in Arabidopsis thaliana",
-  "filename": "Root growth movements Waving and skewing..pdf",
-  "num_pages": 12,
-  "generated_at": "2025-10-04 22:12:43",
-  "summary_file": "summary_Root growth movements Waving and skewing..pdf",
-  "model": "mlx-community/Qwen2.5-3B-Instruct-4bit"
-}
